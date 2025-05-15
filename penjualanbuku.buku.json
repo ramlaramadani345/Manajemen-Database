@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "68253f2d8eed60187e6c4bd1"
+  },
+  "judul": "Belajar MongoDB untuk Pemula",
+  "penulis": "Andi Saputra",
+  "penerbit": "Informatika Bandung",
+  "tahun_terbit": 2023,
+  "kategori": "Teknologi",
+  "stok": 20,
+  "harga": 85000,
+  "isbn": "978-602-1234-56-7",
+  "deskripsi": "Panduan praktis belajar MongoDB dari dasar hingga mahir.",
+  "tanggal_masuk": {
+    "$date": "2025-05-15T01:11:09.644Z"
+  }
+}]
