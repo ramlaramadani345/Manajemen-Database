@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "684a86544f5cfad7ac6c4bd2"
+  },
+  "nama": "Dedi Pratama",
+  "nim": "123456791",
+  "jurusan": "Teknik Informatika",
+  "angkatan": 2020,
+  "email": "dedi.pratama@email.com",
+  "ipk": 3.6,
+  "aktif": true
+},
+{
+  "_id": {
+    "$oid": "684a89bc4f5cfad7ac6c4bd3"
+  },
+  "nama": "Siti Aminah",
+  "nim": "123456792",
+  "jurusan": "Manajemen",
+  "angkatan": 2022,
+  "email": "siti.aminah@email.com",
+  "ipk": 3.55,
+  "aktif": true
+}]
